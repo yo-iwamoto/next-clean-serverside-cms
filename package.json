@@ -1,5 +1,5 @@
 {
-  "name": "my-next-template",
+  "name": "cms-example",
   "license": "MIT",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
